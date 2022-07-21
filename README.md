@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **Graphics Designing, UI/UX Designing**
 
-- 💬 Ask me about **Android Development , Graphics Designing**
+- 💬 Ask me about **Data Structure And Algorithms,Android Development , Graphics Designing**
 
-- 📫 How to reach me **ravikdubey360@gmail.com, Twitter : https://twitter.com/ravikdubey360 , Instagram : https://instagram.com/ravikdubey360**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
